@@ -1,0 +1,12 @@
+{
+  "name": "based-management-modern-site",
+  "version": "1.0.0",
+  "description": "Modern Based Management website concept",
+  "scripts": {
+    "start": "live-server --open=index.html"
+  },
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "devDependencies": {}
+}
